@@ -43,5 +43,11 @@ Use command "Gitlog" to check the author name
 
 use command "git show commitid " to check the files in that commitid
 
+Intially we have to clone the data into our local repo from github.
+
+Use command git clone url to clone the data from repo to local repo
+
+Use command git push to push the data from local to git hub repo
+
 	 
 	 
