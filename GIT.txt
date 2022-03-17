@@ -49,5 +49,7 @@ Use command git clone url to clone the data from repo to local repo
 
 Use command git push to push the data from local to git hub repo
 
+We can add the git credentials in windows credential manager in our local system
+
 	 
 	 
