@@ -49,7 +49,17 @@ Use command git clone url to clone the data from repo to local repo
 
 Use command git push to push the data from local to git hub repo
 
-We can add the git credentials in windows credential manager in our local system
+use command git pull --rebase is used to get the changed data in the repos
 
-	 
-	 
+use command git log -n to check the recent logs
+
+ex: git log -5 -- if we hit this command it will show the last 5 recent logs 
+
+"git log --oneline " --- it will display the commit id and commit msg
+
+"git log --oneline -n" ---- It will display the recent logs
+
+Ex: git log --online -5
+
+
+"git log --author=praveen" --- It will display author committed files
